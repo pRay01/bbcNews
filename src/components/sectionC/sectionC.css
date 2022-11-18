@@ -1,0 +1,185 @@
+.sec-c{
+    display: flex;
+    
+    height: 300px;
+}
+
+.ed-1{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.ed-2{
+    border: 2px solid black;
+    margin-top: -30px;
+    color: white;
+}
+.ed-text{
+    
+    width: 130px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: -298px;
+    margin-top:110px;
+}
+
+.e-1{
+    color: white;
+    width: 280px;
+    font-size: 10px;
+}
+
+.e-2{
+    font-size: 7px;
+    color: white;
+    
+}
+.edward{
+   border: 2px solid black;
+   width: 60px;
+   height: 14px;
+   background: black;
+   margin-top: 133px;
+   margin-left: -290px;
+    font-size: 11px;
+}
+
+.dash7{
+    height: 20px;
+    margin-top:125px;
+    
+    color: white;
+    margin-left: -72px;
+    font-size: 27px;
+}
+
+.isagi-1{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.isagi-text{
+    width: 190px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: -298px;
+    margin-top:110px;
+}
+.isagi{
+    border: 2px solid black;
+    width: 30px;
+    height: 14px;
+    background: black;
+    margin-top: 133px;
+    margin-left: -290px;
+     font-size: 11px;
+}
+.is-1{
+    color: white;
+    width: 280px;
+    font-size: 10px;
+}
+
+.is-2{
+    font-size: 7px;
+    color: white;
+    
+}
+.dash8{
+    height: 20px;
+    margin-top:124px;
+    color:red;
+    margin-left: -40px;
+    font-size: 30px;
+}
+
+.yaguchi-1{
+    width: 300px;
+    height: 170px;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.yaguchi-text{
+    width: 190px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: -298px;
+    margin-top:110px;
+}
+.yaguchi{
+    border: 2px solid black;
+    
+   
+    height: 14px;
+    background: black;
+    margin-top: 133px;
+    margin-left: -290px;
+     font-size: 11px;
+}
+.ya-1{
+    border: 2px solid black;
+    color: white;
+    width: 500px;
+    font-size: 10px;
+}
+
+.ya-2{
+    font-size: 7px;
+    color: white;
+    
+}
+.dash9{
+    height: 20px;
+    margin-top:124px;
+    color:red;
+    margin-left: -45px;
+    font-size: 30px;
+}
+
+.ema-1{
+    width: 300px;
+    height: 170px;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+.ema-text{
+    width: 190px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: -298px;
+    margin-top:110px;
+}
+.ema{
+    border: 2px solid black;
+    
+   
+    height: 14px;
+    background: black;
+    margin-top: 133px;
+    margin-left: -290px;
+     font-size: 11px;
+}
+.em-1{
+    border: 2px solid black;
+    color: white;
+    width: 500px;
+    font-size: 10px;
+}
+
+.em-2{
+    font-size: 7px;
+    color: white;
+    
+}
+.dash10{
+    height: 20px;
+    margin-top:124px;
+    color:red;
+    margin-left: -36px;
+    font-size: 30px;
+}

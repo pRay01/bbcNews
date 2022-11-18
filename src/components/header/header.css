@@ -1,0 +1,237 @@
+.head{
+    display: flex;
+    background-color: black;
+    height: 43px;
+}
+
+
+
+.logo{
+    width: 50px;
+    margin-right: 10px;
+}
+
+.l1{
+    width:75px;
+    height:42px;
+    margin-left: 15px;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid grey;
+}
+
+.a1{
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    border-radius: 50%;
+   outline: 1px solid black;
+    margin-left: 60px;
+    margin-top: 12px;
+
+}
+
+.sign-in{
+    
+    width: 150px;
+    margin-top: 9px;
+    margin-left: 4px;
+    margin-right: 56px;
+ 
+  
+}
+.a2{
+    color: white;
+    font-size: small;
+    font-weight: bold;
+   margin-left: 10px;
+   margin-bottom: 15px;
+
+}
+
+.list0{
+    display: flex;
+}
+
+
+.list1{
+border-left: 1px solid grey;
+border-right: 1px solid grey;
+width: 80px;
+height: 42px;
+margin-top:-15px ;
+align-items:center;
+display:flex;
+}
+
+.home{
+font-weight: bold;
+font-size: 13px;
+text-decoration: none;
+color: white;
+padding-left: 19px;
+
+
+
+}
+.list2{
+    
+border-right: 1px solid grey;
+width: 90px;
+height: 42px;
+margin-top:-15px ;
+align-items:center;
+display:flex;
+}
+.news{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+font-size: 13px;
+padding-left: 25px;
+}
+
+.list3{
+    border-right: 1px solid grey;
+width: 90px;
+height: 42px;
+margin-top:-15px ;
+align-items:center;
+display:flex;
+}
+.sports{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+font-size: 13px;
+padding-left: 25px;
+}
+
+.list4{
+    border-right: 1px solid grey;
+    width: 90px;
+    height: 42px;
+    margin-top:-15px ;
+    align-items:center;
+    display:flex;
+}
+    .reels{
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+    font-size: 13px;
+    padding-left: 25px;
+    }
+
+    .list5{
+        border-right: 1px solid grey;
+        width: 100px;
+        height: 42px;
+        margin-top:-15px ;
+        align-items:center;
+        display:flex;
+      
+    }
+.worklife{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+font-size: 13px;
+padding-left: 17px;
+padding-right: 25px;
+}
+
+.list6{
+    border-right: 1px solid grey;
+    width: 80px;
+    height: 42px;
+    margin-top:-15px ;
+    align-items:center;
+    display:flex;
+}
+.travel{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+font-size: 13px;
+padding-left: 17px;
+padding-right: 15px;
+}
+
+.list7{
+    border-right: 1px solid grey;
+    width: 80px;
+    height: 42px;
+    margin-top:-15px ;
+    align-items:center;
+    display:flex;
+}
+.future{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+font-size: 13px;
+padding-left: 15px;
+padding-right: 15px;
+}
+
+.list8{
+    border-right: 1px solid grey;
+    width: 80px;
+    height: 42px;
+    margin-top:-15px ;
+    align-items:center;
+    display:flex;
+}
+.culture{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+font-size: 13px;
+padding-left: 17px;
+padding-right: 10px;
+}
+
+.more{
+    display:flex;
+  
+    width: 90px;
+    border-right: 1px solid grey;
+}
+.more1{
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 14px;
+    margin-top: 14px;
+}
+.select{
+    width: 15px;
+    height:10px;
+    outline: none;
+    border: none;
+    margin-top: 20px;
+    margin-left:10px;
+    background: transparent;
+    color: white;
+}
+
+.search{
+    display:flex;
+    align-items: center;
+}
+.search1{
+margin-left: 10px;
+border-radius: -1px;
+}
+.search2{
+    width: 19px;
+    height:18px;
+   margin-left: -20px;
+}
+::-webkit-input-placeholder {
+    color:black;
+    font-weight: bold;
+  }
+
+ 

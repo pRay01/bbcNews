@@ -1,0 +1,19 @@
+.heading{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    align-items: center;
+    width: 1200px;
+
+  }
+   .h-1{
+       color: #424141;
+       font-weight: 600;
+   }   
+  
+   .h-2{
+     margin-top: 5px;
+     font-size: large;
+     font-weight: 490;
+     color: #424141;
+   }

@@ -1,0 +1,32 @@
+.h-2{
+    
+    height: 35px;
+    display: flex;
+}
+.dash6{
+    margin-left: 20px;
+    font-size: 22px;
+    color: red;
+}
+.head-2{
+    margin-top: 4px;
+}
+
+
+
+@media (max-width:320px){
+    .h-2{
+         margin-top: 450px;
+         margin-left: 20px;
+        height: 35px;
+        display: flex;
+    }
+    .dash6{
+        margin-left: 0px;
+        font-size: 22px;
+        color: red;
+    }
+    .head-2{
+        margin-top: 4px;
+    }
+}

@@ -1,0 +1,293 @@
+.section-b{
+    display: flex;
+    width: 650px;
+    height:305px;
+    
+       margin-left: 590px;
+    margin-top: -305px;
+}
+
+.n-1{
+    width: 280px;
+    margin-left: -25px;
+}
+
+.text1{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    border: 2px solid black;
+    width: 180px;
+    margin-top: -50px;
+    margin-left: 2px;
+}
+
+.dash2{
+    margin-top:-30px;
+    margin-left: 2px;
+    font-size: 22px;
+}
+
+
+.todoroki{
+ 
+    width:70px;
+  
+    margin-left: 5px;
+    margin-top:-29px;
+    color: aliceblue;
+    font-size: xx-small;
+
+}
+
+.t-1{
+   background-color: black;
+    margin-left: 3px;
+    margin-bottom: 50px ;
+    padding-top: -2px;
+    padding-bottom: 1px;
+    font-size:7px;
+    
+}
+.t-2{
+    color: red;
+    margin-left: 3px;
+}
+
+
+.zen-1{
+    width: 280px;
+    margin-left: 30px;
+}
+.text-1{
+    border: 2px solid black;
+    width:150px;
+    color:white;
+    margin-top: -70px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+.zen-2{
+    width:70px;
+  
+    margin-left: 35px;
+    margin-top:-55px;
+    color: aliceblue;
+    font-size: xx-small;
+}
+.tex-1{
+    border: 2px solid black;
+  margin-top: 20px;
+  background-color: black;
+  
+}
+.dash3{
+  margin-top: -35px;
+  font-size: 28px;
+}
+ .i-3{
+     margin-left: 30px;
+   
+ }
+
+ .pain{
+    width: 280px;
+    height: 135px;
+    margin-left: -616px;
+    margin-top: 170px;
+ }
+ 
+ .text2{
+    color:white;
+    font-size: 12px;
+    border: 2px solid black;
+    width: 180px;
+    margin-top: -50px;
+    margin-left: -590px;
+}
+
+.dash4{
+    margin-top:-30px;
+    margin-left: -590px;
+    font-size: 22px;
+}
+
+
+.naruto{
+ 
+    width:70px;
+  
+    margin-left: 5px;
+    margin-top:-29px;
+    color: aliceblue;
+    font-size: xx-small;
+
+}
+
+.p-1{
+   background-color: black;
+    margin-left: -589px;
+    margin-bottom: 50px ;
+    padding-top: -2px;
+    padding-bottom: 1px;
+    font-size:7px;
+    
+}
+.p-2{
+    color: red;
+    margin-left: -589px;
+}
+
+.ace-1{
+    width: 280px;
+    height: 135px;
+    margin-left: -355px;
+    margin-top: 170px;
+ }
+ 
+ .text-2{
+    color:white;
+    font-size: 12px;
+    border: 2px solid black;
+    width: 180px;
+    margin-top: -50px;
+    margin-left: -350px;
+}
+
+.dash5{
+    margin-top:-30px;
+    margin-left: -350px;
+    font-size: 22px;
+}
+
+
+.ace-2{
+ 
+    width:70px;
+  
+    margin-left: 245px;
+    margin-top:-29px;
+    color: aliceblue;
+    font-size: xx-small;
+
+}
+
+.a-1{
+   background-color: black;
+    margin-left: -589px;
+    margin-bottom: 50px ;
+    padding-top: -2px;
+    padding-bottom: 1px;
+    font-size:7px;
+    
+}
+.a-2{
+    color: red;
+    margin-left: -589px;
+}
+
+
+@media (max-width:320px){
+    .section-b{
+        display:block;
+        margin-left: 6%;
+        width: 150px;
+        height:600px;
+      
+         
+    }
+
+    .n-1{
+        margin-top: 330px;
+        margin-left: -100px;
+        width: 290px;
+        margin-left: -25px;
+    }
+    
+    .text1{
+        color: rgb(0, 0, 0);
+        font-size: 12px;
+        border: 2px solid black;
+        width: 180px;
+        margin-top: -50px;
+        margin-left: 2px;
+    }
+    
+    .dash2{
+        margin-top:-30px;
+        margin-left: 2px;
+        font-size: 22px;
+    }
+    
+    
+    .todoroki{
+     
+        width:70px;
+      
+        margin-left: 5px;
+        margin-top:-29px;
+        color: aliceblue;
+        font-size: xx-small;
+    
+    }
+    
+    .t-1{
+       background-color: black;
+        margin-left: 3px;
+        margin-bottom: 50px ;
+        padding-top: -2px;
+        padding-bottom: 1px;
+        font-size:7px;
+        
+    }
+    .t-2{
+        color: red;
+        margin-left: 3px;
+    }
+
+
+    .zen-1{
+        width: 291px;
+        margin-left: -1px;
+        margin-top: 30px;
+    }
+    
+    .dash3{
+        margin-top: -35px;
+        font-size: 28px;
+      }
+       .i-3{
+           margin-left: 1px;
+         
+       }
+       .zen-2{
+        width:70px;
+      
+        margin-left: 8px;
+        margin-top:-55px}
+
+        .text-1{
+            border: 2px solid black;
+            width:150px;
+            color:white;
+            margin-top: -70px;
+            margin-left: 1px;
+            font-size: 25px;
+        }
+
+    .pain{
+        width: 292px;
+        height: 135px;
+        margin-left: -26px;
+        margin-top: 20px;}
+
+        .ace-1{
+            width: 292px;
+            height: 135px;
+            margin-left: 1px;
+            margin-top: 20px;
+         }
+         
+
+
+}
